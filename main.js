@@ -7,12 +7,6 @@ const charities = [
     website: "https://www.awf.org"
   },
   {
-    name: "African Wildlife Foundation",
-    description: "Conservation of Africa's wildlife and natural habitats",
-    continent: "africa",
-    website: "https://www.awf.org"
-  },
-  {
     name: "Stand Up For Africa",
     description: "Supports and creates opportunities to eradicate poverty and suffering across Africa",
     continent: "africa",
