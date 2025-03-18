@@ -565,10 +565,10 @@ const charities = [
     website: "https://www.tearfund.org"
   },
   {
-  name: "Islamic Relief Worldwide",
-  description: "A humanitarian charity inspired by Islamic values, providing aid specifically for Muslim communities worldwide.",
-  continent: "muslim",
-  website: "https://www.islamic-relief.org"
+    name: "Islamic Relief Worldwide",
+    description: "A humanitarian charity inspired by Islamic values, providing aid specifically for Muslim communities worldwide.",
+    continent: "muslim",
+    website: "https://www.islamic-relief.org"
   },
   {
     name: "Muslim Aid",
