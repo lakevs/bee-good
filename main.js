@@ -651,7 +651,7 @@ const charities = [
   {
     name: "The Tibetan Buddhist Foundation",
     description: "Preserves and promotes Tibetan Buddhist culture and philosophy, while supporting educational and humanitarian efforts within Tibetan Buddhist communities.",
-    continent: "global",
+    continent: "buddhist",
     website: "https://www.tibetanbuddhistfoundation.org"
   },
   {
