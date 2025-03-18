@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Be Kind</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <h1>Be Kind</h1>
+        <div class="search-container">
+          <input type="text" id="searchInput" placeholder="Search charities...">
+        </div>
+      </header>
+      
+      <nav id="continentNav">
+        <button class="continent-btn active" data-continent="all">All</button>
+        <button class="continent-btn" data-continent="africa">Africa</button>
+        <button class="continent-btn" data-continent="asia">Asia</button>
+        <button class="continent-btn" data-continent="europe">Europe</button>
+        <button class="continent-btn" data-continent="northAmerica">North America</button>
+        <button class="continent-btn" data-continent="southAmerica">South America</button>
+        <button class="continent-btn" data-continent="oceania">Oceania</button>
+      </nav>
+
+      <main id="charitiesContainer"></main>
+    </div>
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
