@@ -10,10 +10,14 @@
     <div id="app">
       <header>
         <h1>Bee Kind Charity Hub</h1>
-        <div class="search-container">
-          <input type="text" id="searchInput" placeholder="Search charities...">
+        <div class="header-right">
+            <button class="theme-toggle" id="themeToggle">🌙</button>
+            <button class="about-btn" onclick="window.location.href='about.html'">About Me</button>
         </div>
-      </header>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search charities...">
+        </div>
+    </header>
       
       <nav id="continentNav">
         <button class="continent-btn active" data-continent="all">All</button>
@@ -31,5 +35,6 @@
       <main id="charitiesContainer"></main>
     </div>
     <script type="module" src="main.js"></script>
+    <script src="theme.js"></script>
   </body>
 </html>
