@@ -504,64 +504,64 @@ const charities = [
     website: "https://www.curebraincancer.org.au"
   },
   {
-    "name": "World Vision",
-    "description": "Focuses on child welfare, poverty alleviation, and humanitarian aid globally.",
-    "continent": "christian",
-    "website": "https://www.worldvision.org"
+    name: "World Vision",
+    description: "Focuses on child welfare, poverty alleviation, and humanitarian aid globally.",
+    continent: "christian",
+    website: "https://www.worldvision.org"
   },
   {
-    "name": "Catholic Relief Services",
-    "description": "Works on humanitarian issues, focusing on relief, development, and emergency response.",
-    "continent": "christian",
-    "website": "https://www.crs.org"
+    name: "Catholic Relief Services",
+    description: "Works on humanitarian issues, focusing on relief, development, and emergency response.",
+    continent: "christian",
+    website: "https://www.crs.org"
   },
   {
-    "name": "Operation Blessing International",
-    "description": "Focuses on disaster relief, medical care, and clean water for impoverished areas.",
-    "continent": "christian",
-    "website": "https://www.ob.org"
+    name: "Operation Blessing International",
+    description: "Focuses on disaster relief, medical care, and clean water for impoverished areas.",
+    continent: "christian",
+    website: "https://www.ob.org"
   },
   {
-    "name": "Lutheran World Relief",
-    "description": "Supports sustainable development and relief efforts in impoverished regions.",
-    "continent": "christian",
-    "website": "https://www.lwr.org"
+    name: "Lutheran World Relief",
+    description: "Supports sustainable development and relief efforts in impoverished regions.",
+    continent: "christian",
+    website: "https://www.lwr.org"
   },
   {
-    "name": "Samaritan's Purse",
-    "description": "Provides emergency relief, medical care, and support for communities in need.",
-    "continent": "christian",
-    "website": "https://www.samaritanspurse.org"
+    name: "Samaritan's Purse",
+    description: "Provides emergency relief, medical care, and support for communities in need.",
+    continent: "christian",
+    website: "https://www.samaritanspurse.org"
   },
   {
-    "name": "The Salvation Army",
-    "description": "Provides social services, shelter, and disaster relief across the world.",
-    "continent": "christian",
-    "website": "https://www.salvationarmy.org"
+    name: "The Salvation Army",
+    description: "Provides social services, shelter, and disaster relief across the world.",
+    continent: "christian",
+    website: "https://www.salvationarmy.org"
   },
   {
-    "name": "Christian Aid",
-    "description": "Fights poverty and injustice globally by supporting vulnerable communities and advocating for systemic change.",
-    "continent": "christian",
-    "website": "https://www.christianaid.org.uk"
+    name:: "Christian Aid",
+    description: "Fights poverty and injustice globally by supporting vulnerable communities and advocating for systemic change.",
+    continent: "christian",
+    website: "https://www.christianaid.org.uk"
   },
   {
-    "name": "Compassion International",
-    "description": "Provides children with sponsorships, education, healthcare, and a path out of poverty.",
-    "continent": "christian",
-    "website": "https://www.compassion.com"
+    name: "Compassion International",
+    description: "Provides children with sponsorships, education, healthcare, and a path out of poverty.",
+    continent: "christian",
+    website: "https://www.compassion.com"
   },
   {
-    "name": "Hope International",
-    "description": "Works to alleviate poverty by providing access to microfinance, loans, and savings programs.",
-    "continent": "christian",
-    "website": "https://www.hopeinternational.org"
+    name: "Hope International",
+    description: "Works to alleviate poverty by providing access to microfinance, loans, and savings programs.",
+    continent: "christian",
+    website: "https://www.hopeinternational.org"
   },
   {
-    "name": "Tearfund",
-    "description": "Helps relieve poverty and promote justice through various global projects and partnerships.",
-    "continent": "christian",
-    "website": "https://www.tearfund.org"
+    name: "Tearfund",
+    description: "Helps relieve poverty and promote justice through various global projects and partnerships.",
+    continent: "christian",
+    website: "https://www.tearfund.org"
   }
 ];
 
