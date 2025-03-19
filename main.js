@@ -562,122 +562,135 @@ const charities = [
     name: "Islamic Relief Worldwide",
     description: "A humanitarian charity inspired by Islamic values, providing aid specifically for Muslim communities worldwide.",
     continent: "muslim",
-    "website": "https://www.islamic-relief.org"
+    website: "https://www.islamic-relief.org"
   },
   {
     name: "Muslim Aid",
     description: "Provides humanitarian assistance based on Islamic principles, specifically helping Muslim communities in over 30 countries.",
     continent: "muslim",
-    "website": "https://www.muslimaid.org"
+    website: "https://www.muslimaid.org"
   },
   {
     name: "Zakat Foundation of America",
     description: "Supports Muslim communities through the distribution of zakat (almsgiving) and provides humanitarian aid in line with Islamic teachings.",
     continent: "muslim",
-    "website": "https://www.zakat.org"
+    website: "https://www.zakat.org"
   },
   {
     name: "Human Appeal",
     description: "Provides emergency relief, development programs, and advocacy for Muslim communities in need worldwide, inspired by Islamic values.",
     continent: "muslim",
-    "website": "https://www.humanappeal.org.uk"
+    website: "https://www.humanappeal.org.uk"
   },
   {
     name: "The Daughters of the Prophet",
     description: "Supports Muslim women through education, empowerment programs, and humanitarian aid for Muslim communities.",
     continent: "muslim",
-    "website": "https://www.daughtersoftheprophet.org"
+    website: "https://www.daughtersoftheprophet.org"
   },
   {
     name: "The National Zakat Foundation",
     description: "Collects and distributes zakat, focusing on poverty alleviation and welfare programs in Muslim communities worldwide.",
     continent: "muslim",
-    "website": "https://www.nzf.org.uk"
+    website: "https://www.nzf.org.uk"
   },
   {
     name: "Al-Mubarak Charitable Foundation",
     description: "Provides support for Islamic education, community development, and charitable causes specifically for Muslim communities.",
     continent: "muslim",
-    "website": "https://www.almubarak.org"
+    website: "https://www.almubarak.org"
   },
   {
     name: "ICNA Relief USA",
     description: "A Muslim charity providing services such as food, shelter, education, and medical care to Muslim communities in need in the USA and abroad.",
     continent: "muslim",
-    "website": "https://www.icnarelief.org"
+    website: "https://www.icnarelief.org"
   },
   {
     name: "Penny Appeal",
     description: "A Muslim charity providing relief for Muslim communities suffering from poverty, war, and natural disasters around the world.",
     continent: "muslim",
-    "website": "https://www.pennyappeal.org"
+    website: "https://www.pennyappeal.org"
   },
   {
     name: "Fasting for Hunger",
     description: "A Muslim-led charity that provides food to those in need, particularly during Ramadan, serving Muslim communities globally.",
     continent: "muslim",
-    "website": "https://www.fastingforhunger.org"
+    website: "https://www.fastingforhunger.org"
   },
   {
     name: "Buddhist Global Relief",
     description: "Works to alleviate hunger, poverty, and suffering specifically within Buddhist communities and through Buddhist-inspired charitable projects.",
     continent: "buddhist",
-    "website": "https://www.buddhistglobalrelief.org"
+    website: "https://www.buddhistglobalrelief.org"
   },
   {
     name: "The Buddhist Tzu Chi Foundation",
     description: "A worldwide organization focused on providing disaster relief and promoting environmental sustainability, specifically for Buddhist communities.",
     continent: "buddhist",
-    "website": "https://www.tzuchi.org"
+    website: "https://www.tzuchi.org"
   },
   {
     name: "Soka Gakkai International (SGI)",
     description: "Promotes peace, culture, and education based on Buddhist teachings, focusing on supporting Buddhist communities worldwide.",
     continent: "buddhist",
-    "website": "https://www.sgi.org"
+    website: "https://www.sgi.org"
   },
   {
     name: "Dhammakaya Foundation",
     description: "Supports Buddhist teachings and humanitarian efforts, focusing on helping Buddhist communities around the world.",
     continent: "buddhist",
-    "website": "https://www.dhammakaya.org"
+    website: "https://www.dhammakaya.org"
   },
   {
     name: "The Tibetan Buddhist Foundation",
     description: "Preserves and promotes Tibetan Buddhist culture and philosophy, while supporting educational and humanitarian efforts within Tibetan Buddhist communities.",
     continent: "buddhist",
-    "website": "https://www.tibetanbuddhistfoundation.org"
+    website: "https://www.tibetanbuddhistfoundation.org"
   },
   {
     name: "The Buddhist Peace Fellowship",
     description: "Works to engage Buddhists in social justice movements, advocating for peace and equality within Buddhist communities.",
     continent: "buddhist",
-    "website": "https://www.bpf.org"
+    website: "https://www.bpf.org"
   },
   {
     name: "Zen Peacemakers",
     description: "An organization dedicated to bringing the teachings of Zen Buddhism into social activism for the peace of Buddhist communities around the world.",
     continent: "buddhist",
-    "website": "https://www.zenpeacemakers.org"
+    website: "https://www.zenpeacemakers.org"
   },
   {
     name: "Mindful Schools",
     description: "Offers mindfulness training and programs inspired by Buddhist teachings to support Buddhist communities, particularly children and educators.",
     continent: "buddhist",
-    "website": "https://www.mindfulschools.org"
+    website: "https://www.mindfulschools.org"
   },
   {
     name: "Lama Tzong Khapa Institute",
     description: "Provides educational programs and spiritual training based on Tibetan Buddhism, while supporting humanitarian and environmental initiatives for Buddhist communities.",
     continent: "buddhist",
-    "website": "https://www.iltz.it"
+    website: "https://www.iltz.it"
   },
   {
     name: "The Tzu Chi Foundation USA",
     description: "Promotes charity, medical assistance, and disaster relief in the United States, focusing on supporting Buddhist communities and values.",
     continent: "buddhist",
-    "website": "https://www.tzuchi.us"
+    website: "https://www.tzuchi.us"
+  },
+  {
+    name: "United Nations Relief and Works Agency ",
+    description: "UN agency established in 1949 to provide humanitarian assistance and protection to registered Palestine refugees in the West Bank, Gaza, Jordan, Lebanon, and Syria",
+    continent: "muslim",
+    website: "https://www.unrwa.org/"
+  },
+  {
+    name: "Palestine Children's Relief Fund",
+    description: "Palestine Children's Relief Fund (PCRF) is a non-profit organization that provides medical and humanitarian aid to children in the Middle East, particularly those in Gaza and the West Bank, focusing on treatment abroad, medical missions, and building sustainable programs",
+    continent: "muslim",
+    website: "https://www.pcrf.net/"
   }
+    
 ];
 
 
